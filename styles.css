@@ -1,8 +1,15 @@
-.card {
-    padding-top: 10px;
-    padding-bottom: 10px;
+img {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
     padding-left: 20px;
+    border: solid 2px gray;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
 
-    color: #ffffff;
-    background-color: #673ab7;
+body {
+    background-color: azure;
+    text-align: center;
 }
